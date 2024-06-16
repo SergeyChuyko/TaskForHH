@@ -19,7 +19,7 @@
   <tr align= "center">
     <td width="300"><img src="Gifs/StartApp.gif" width="250"></td>
     <td width="300"><img src="Gifs/ShopScreen.gif" width="250"></td>
-    <td width="300"><img src="Gifs/RealoadApp.gif" width="250"></td>
+    <td width="300"><img src="Gifs/ReloadApp.gif" width="250"></td>
   </tr>
  </table>
 
